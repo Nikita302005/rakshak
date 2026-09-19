@@ -8,11 +8,11 @@
 [![Security](https://img.shields.io/badge/Security-AES--128%20GCM%20|%20AES--256-darkred?style=for-the-badge)](https://github.com/Nikita302005/rakshak)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-[![Platform](https://img.shields.io/badge/Platform-Rakshak--Net%20CAD-0F4C81?style=flat-square)](https://github.com/PriyanshuSingh2102/IIT_BBSR)
-[![Government Partner](https://img.shields.io/badge/Commissionerate%20Police-Bhubaneswar--Cuttack-16A34A?style=flat-square)](https://github.com/PriyanshuSingh2102/IIT_BBSR)
-[![Hardware Standard](https://img.shields.io/badge/WPC%20License-ETA--IN865%20(865.2%20MHz)-blue?style=flat-square)](https://github.com/PriyanshuSingh2102/IIT_BBSR)
-[![Encryption](https://img.shields.io/badge/Security-AES--128%20GCM%20%7C%20AES--256-darkred?style=flat-square)](https://github.com/PriyanshuSingh2102/IIT_BBSR)
-[![Research Institution](https://img.shields.io/badge/Research-MeitY%20%2F%20IIT%20Bhubaneswar-D97706?style=flat-square)](https://github.com/PriyanshuSingh2102/IIT_BBSR)
+[![Platform](https://img.shields.io/badge/Platform-Rakshak--Net%20CAD-0F4C81?style=flat-square)](https://github.com/Nikita302005/rakshak)
+[![Government Partner](https://img.shields.io/badge/Commissionerate%20Police-Bhubaneswar--Cuttack-16A34A?style=flat-square)](https://github.com/Nikita302005/rakshak)
+[![Hardware Standard](https://img.shields.io/badge/WPC%20License-ETA--IN865%20(865.2%20MHz)-blue?style=flat-square)](https://github.com/Nikita302005/rakshak)
+[![Encryption](https://img.shields.io/badge/Security-AES--128%20GCM%20%7C%20AES--256-darkred?style=flat-square)](https://github.com/Nikita302005/rakshak)
+[![Research Institution](https://img.shields.io/badge/Research-MeitY%20%2F%20IIT%20Bhubaneswar-D97706?style=flat-square)](https://github.com/Nikita302005/rakshak)
 
 ---
 
@@ -130,8 +130,8 @@ flowchart TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/PriyanshuSingh2102/IIT_BBSR.git
-cd IIT_BBSR
+git clone https://github.com/Nikita302005/rakshak.git
+cd rakshak
 ```
 
 ### 2. Verify Project Structure
@@ -318,7 +318,7 @@ Where weights $w_k, w_b, w_a, w_v$ are normalized by cross-modality attention co
 
 ## 9. Contributors & Institutional Attribution
 
-- **Project Lead & Development:** Priyanshu Singh ([@PriyanshuSingh2102](https://github.com/PriyanshuSingh2102))
+- **Project Lead & Development:** Nikita ([@Nikita302005](https://github.com/Nikita302005))
 - **Research Collaboration:** Indian Institute of Technology Bhubaneswar (IIT BBSr) & Ministry of Electronics and Information Technology (MeitY)
 - **Deployment Partner:** Commissionerate Police Bhubaneswar-Cuttack (Emergency Operations & Dial 112 Command Desk)
 
