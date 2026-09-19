@@ -1,0 +1,40 @@
+================================================================================
+RAKSHAK-NET CAD - IMAGE ASSET SPECIFICATION FOR FIELD HARDWARE & CCTV
+================================================================================
+
+This directory is designated for real photographic assets to replace the 
+enterprise technical wireframe placeholders across the 6 dashboard screens.
+
+1. CCTV Feeds:
+   - File: assets/cctv-patia-14b.jpg
+     Location: Patia Infocity Pedestrian Sidewalk (Pole #1402)
+     Recommended Spec: 1920x1080 JPEG/PNG, night-vision or street-lit camera angle.
+     Shows: Pedestrian corridor with pole camera framing.
+
+   - File: assets/cctv-kiit-09.jpg
+     Location: KIIT Square Lane 4 Corner (Pole #0988)
+     Recommended Spec: 1920x1080 JPEG/PNG.
+
+2. Hardware Devices (Tier 1):
+   - File: assets/rakshak-band-x1.jpg
+     Hardware: Smart Wristband with tactile micro-switch & nRF52840 + SX1262 LoRa module.
+     Recommended Spec: Clean high-res product photo on neutral white background.
+
+   - File: assets/rakshak-pendant-pro.jpg
+     Hardware: Discrete pendant with 3-point capacitive panic trigger ring.
+     Recommended Spec: High-res product photo.
+
+3. Municipal Pole Gateways (Tier 2):
+   - File: assets/lora-pole-gateway.jpg
+     Hardware: Municipal smart light pole with IP67 die-cast aluminum enclosure, 
+     fiberglass omni antenna (865 MHz), solar MPPT panel and LiFePO4 battery enclosure.
+     Recommended Spec: Real municipal installation photo.
+
+4. Quick Reaction Vehicles (Tier 3 Dispatch):
+   - File: assets/pcr-patrol-vehicle.jpg
+     Vehicle: Odisha Police Dial 112 Quick Reaction Patrol Vehicle (Tata Safari Storme / Mahindra Scorpio).
+     Recommended Spec: Police patrol vehicle with emergency beacon lights.
+
+All placeholders in the web application are built with technical wireframe crosshairs 
+and exact engineering parameters (telemetry, RTSP paths, RF frequencies, dimensions)
+until these real images are placed into this directory.

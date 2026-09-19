@@ -1,0 +1,19 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch and Temporary logs
+scratch/
+*.log
+.system_generated/
+
+# Large binary / media files (keep locally, not in git)
+*.mp4
+*.wav
+*.mp3
+assets/*.jpg
+assets/*.png
+assets/*.jpeg
+Untitled-1.txt
+Untitled-2.txt
